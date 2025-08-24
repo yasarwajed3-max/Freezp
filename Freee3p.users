@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "d3f697b62245ca89",
+    "username": "ofbar",
+    "password": "1",
+    "expiresAt": "2025-12-30",
+    "allowOffline": false
+  },
+{
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
