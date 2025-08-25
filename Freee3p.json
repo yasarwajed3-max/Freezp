@@ -22,5 +22,11 @@
         "key": "2",
         "expirydate": "15-06-2035",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d3f697b62245ca89",
+        "key": "obf1",
+        "expirydate": "15-06-2035",
+        "Allowoffline": false
     }
 ]
