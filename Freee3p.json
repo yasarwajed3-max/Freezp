@@ -28,5 +28,12 @@
         "key": "obf1",
         "expirydate": "15-06-2035",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "6e4318ac8799480d",
+        "key": "ali12",
+        "expirydate": "15-06-2035",
+        "Allowoffline": false
     }
 ]
