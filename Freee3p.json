@@ -214,5 +214,11 @@
         "key": "HWJ6ZEPA21",
         "expirydate": "28-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "afca08f06d7b1cb1",
+        "key": "TiOlSdpEsP",
+        "expirydate": "28-11-2033",
+        "Allowoffline": false
     }
 ]
