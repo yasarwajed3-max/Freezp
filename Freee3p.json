@@ -178,5 +178,11 @@
         "key": "2exit0T9jl",
         "expirydate": "28-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "79503256e20b5c04",
+        "key": "FY2LiTlDJX",
+        "expirydate": "28-11-2033",
+        "Allowoffline": false
     }
 ]
