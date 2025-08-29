@@ -250,5 +250,11 @@
         "key": "mk3upcw2Va",
         "expirydate": "29-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a748c323d5de0f3e",
+        "key": "cfF5m6vaG3",
+        "expirydate": "29-11-2033",
+        "Allowoffline": false
     }
 ]
