@@ -400,5 +400,11 @@
         "key": "SLWU6NtcTv",
         "expirydate": "29-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "65afe8656bbbab3b",
+        "key": "1QnzislFjy",
+        "expirydate": "29-11-2033",
+        "Allowoffline": false
     }
 ]
