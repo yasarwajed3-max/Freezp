@@ -724,5 +724,11 @@
         "key": "nvBLKZt8g7",
         "expirydate": "30-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "06ec028cdc1bbc04",
+        "key": "DKLoIn8MRh",
+        "expirydate": "30-11-2033",
+        "Allowoffline": false
     }
 ]
