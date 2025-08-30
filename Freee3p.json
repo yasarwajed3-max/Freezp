@@ -1030,5 +1030,11 @@
         "key": "hnjPKSwydm",
         "expirydate": "02-03-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d1383c2f087825e3",
+        "key": "Ar5GLRcHST",
+        "expirydate": "30-11-2033",
+        "Allowoffline": false
     }
 ]
