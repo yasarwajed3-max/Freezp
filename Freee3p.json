@@ -742,5 +742,11 @@
         "key": "AUcerdL5RO",
         "expirydate": "30-12-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "acc5c6b2434abacb",
+        "key": "jy6OlWJwSR",
+        "expirydate": "30-11-2033",
+        "Allowoffline": false
     }
 ]
