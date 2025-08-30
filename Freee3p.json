@@ -538,5 +538,11 @@
         "key": "PQI8LxMt2i",
         "expirydate": "30-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ca8865925c5a6c04",
+        "key": "3HFRPfXumK",
+        "expirydate": "30-11-2033",
+        "Allowoffline": false
     }
 ]
