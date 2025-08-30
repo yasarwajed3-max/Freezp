@@ -514,5 +514,11 @@
         "key": "8v423ortDl",
         "expirydate": "30-12-2032",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f17085cb72f03973",
+        "key": "2ezt7NJKL6",
+        "expirydate": "30-12-2032",
+        "Allowoffline": false
     }
 ]
