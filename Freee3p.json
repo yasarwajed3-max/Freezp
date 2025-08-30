@@ -772,5 +772,11 @@
         "key": "SmPpgM1UI5",
         "expirydate": "30-11-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7b0f3c7695faa3cc",
+        "key": "dDvrV6pXYq",
+        "expirydate": "30-11-2033",
+        "Allowoffline": false
     }
 ]
