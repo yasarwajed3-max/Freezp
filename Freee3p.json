@@ -1204,5 +1204,11 @@
         "key": "rP50tGySp6",
         "expirydate": "02-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fd309e23db247812",
+        "key": "ng4hAfapNd",
+        "expirydate": "02-01-2033",
+        "Allowoffline": false
     }
 ]
