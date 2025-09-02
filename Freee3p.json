@@ -1276,5 +1276,11 @@
         "key": "dfLon50gix",
         "expirydate": "02-01-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6f9df46245c9e29d",
+        "key": "WviSFgnqTs",
+        "expirydate": "02-12-2033",
+        "Allowoffline": false
     }
 ]
