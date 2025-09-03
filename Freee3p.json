@@ -1420,5 +1420,11 @@
         "key": "LntszPYFT4",
         "expirydate": "03-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a0a40474710ec0e5",
+        "key": "Fn1oerTx4g",
+        "expirydate": "03-12-2033",
+        "Allowoffline": false
     }
 ]
