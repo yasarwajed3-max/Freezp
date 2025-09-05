@@ -1522,5 +1522,11 @@
         "key": "ebwrgcYPmQ",
         "expirydate": "05-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6a8d1fc6264a2594",
+        "key": "S78ClaRJLr",
+        "expirydate": "05-12-2033",
+        "Allowoffline": false
     }
 ]
