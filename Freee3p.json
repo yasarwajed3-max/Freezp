@@ -1618,5 +1618,11 @@
         "key": "L2tDfpmhg5",
         "expirydate": "08-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "L2tDfpmhg5",
+        "key": "M0vzi8xplb",
+        "expirydate": "08-12-2033",
+        "Allowoffline": false
     }
 ]
