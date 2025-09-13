@@ -1774,5 +1774,11 @@
         "key": "COBXGZkw5U",
         "expirydate": "13-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "96f4ed05ec010242",
+        "key": "cwz187yaEV",
+        "expirydate": "13-12-2033",
+        "Allowoffline": false
     }
 ]
