@@ -1828,5 +1828,11 @@
         "key": "FpSEaO62kR",
         "expirydate": "13-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e4b624342794c86e",
+        "key": "amir01",
+        "expirydate": "13-12-2033",
+        "Allowoffline": false
     }
 ]
