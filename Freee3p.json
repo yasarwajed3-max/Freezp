@@ -1882,5 +1882,11 @@
         "key": "N8zADJOS4G",
         "expirydate": "20-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fc4cec992315853f",
+        "key": "foahlYtEMv",
+        "expirydate": "20-12-2033",
+        "Allowoffline": false
     }
 ]
