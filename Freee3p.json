@@ -2020,5 +2020,11 @@
         "key": "NOd4RuwBEi",
         "expirydate": "28-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f2babc465a1ca978",
+        "key": "VPiAY3uxEh",
+        "expirydate": "28-06-2026",
+        "Allowoffline": false
     }
 ]
