@@ -2056,5 +2056,11 @@
         "key": "CGErxKSj75",
         "expirydate": "30-12-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "be8349285a022fc1",
+        "key": "K4mRYVU1EC",
+        "expirydate": "30-12-2033",
+        "Allowoffline": false
     }
 ]
