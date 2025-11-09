@@ -2572,5 +2572,11 @@
         "key": "UMaACqSefc",
         "expirydate": "09-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d1272fc15920b162",
+        "key": "Ft38CTNS5W",
+        "expirydate": "09-02-2034",
+        "Allowoffline": false
     }
 ]
