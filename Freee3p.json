@@ -2722,5 +2722,11 @@
         "key": "EOFUDGSZm2",
         "expirydate": "23-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "21faccf2eb0e7f3a",
+        "key": "kcSCw20XQj",
+        "expirydate": "23-02-2034",
+        "Allowoffline": false
     }
 ]
