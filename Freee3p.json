@@ -2740,5 +2740,11 @@
         "key": "B1T240MDvf",
         "expirydate": "26-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "34005375ec495dfa",
+        "key": "RDs85xr62G",
+        "expirydate": "26-02-2034",
+        "Allowoffline": false
     }
 ]
