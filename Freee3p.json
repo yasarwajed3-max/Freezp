@@ -2830,5 +2830,11 @@
         "key": "cfKQ0ukrvs",
         "expirydate": "02-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f71d5261ce501667",
+        "key": "LDYH41noNR",
+        "expirydate": "02-03-2034",
+        "Allowoffline": false
     }
 ]
