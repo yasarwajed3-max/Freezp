@@ -3502,5 +3502,11 @@
         "key": "O6CMuPlGVB",
         "expirydate": "15-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c27fa9100df6c9c",
+        "key": "5rHgaj867c",
+        "expirydate": "18-03-2034",
+        "Allowoffline": false
     }
 ]
