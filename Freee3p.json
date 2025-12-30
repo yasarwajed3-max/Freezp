@@ -3922,5 +3922,11 @@
         "key": "nwUQKBL87S",
         "expirydate": "30-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9a8dc8ae297da5fd",
+        "key": "MD6aNmWJYk",
+        "expirydate": "30-03-2034",
+        "Allowoffline": false
     }
 ]
